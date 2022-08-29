@@ -1,0 +1,35 @@
+--------------Data of All accounts-----------
+------------
+Frist Name: osama
+Last name: ali
+Balance: 823.0
+ID: 1001
+------------
+------------
+Frist Name: esraa
+Last name: mohamed
+Balance: 3477.0
+ID: 1002
+------------
+-----------All Transactions occurs-----------------
+------------
+TransactionsData{sender=Frist Name: esraa
+Last name: mohamed
+Balance: 3477.0
+ID: 1002, reciver=null, dateOfTransactions=Tue Nov 23 10:38:17 PST 2021, typeOfTransactions=DEPOSIT OPERATION , amount=5000.0, StatusOfOperation=true}
+------------
+------------
+TransactionsData{sender=Frist Name: esraa
+Last name: mohamed
+Balance: 3477.0
+ID: 1002, reciver=Frist Name: osama
+Last name: ali
+Balance: 823.0
+ID: 1001, dateOfTransactions=Tue Nov 23 10:38:28 PST 2021, typeOfTransactions=Transfer money , amount=1523.0, StatusOfOperation=true}
+------------
+------------
+TransactionsData{sender=Frist Name: osama
+Last name: ali
+Balance: 823.0
+ID: 1001, reciver=null, dateOfTransactions=Tue Nov 23 10:38:53 PST 2021, typeOfTransactions=WithdrawalAmount , amount=700.0, StatusOfOperation=true}
+------------
